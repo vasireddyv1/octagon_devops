@@ -14,10 +14,12 @@ Installing HomeBrew in MAC
 
 Installing Git in MAC
 ***************************
-
 brew install git
 
 
 
-
+Installing docker in MAC
+***************************
+1. brew cask install docker
+2. cmd+space (search for docker)
 
