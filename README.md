@@ -9,3 +9,15 @@ Installing HomeBrew in MAC
 1. Install Home Brew: Package manger in mac
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+
+
+Installing Git in MAC
+***************************
+
+brew install git
+
+
+
+
+
