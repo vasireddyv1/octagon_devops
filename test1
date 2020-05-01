@@ -1,3 +1,7 @@
 updated test1 file in git directly
+<<<<<<< HEAD
 
 update in command line
+=======
+update second time in git directly
+>>>>>>> 7d88a2ea5fc0bccd708cc563133e6736e189ca07
